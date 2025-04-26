@@ -31,13 +31,13 @@ ER Diagram (Reference for schema design)
 
 📂 Project Files:
 
-Database creation scripts
+* Database creation scripts
 
-Table modification scripts
+* Table modification scripts
 
-Foreign key constraints
+* Foreign key constraints
 
-Query files for problem-solving
+* Query files for problem-solving
 
 🚀 How to Use:
 
