@@ -41,10 +41,10 @@ ER Diagram (Reference for schema design)
 
 🚀 How to Use:
 
-Clone the repository
+* Clone the repository
 
-Import the .csv files into your MySQL database
+* Import the .csv files into your MySQL database
 
-Run the provided SQL scripts to create and modify the tables
+* Run the provided SQL scripts to create and modify the tables
 
-Execute the queries to fetch the required results
+* Execute the queries to fetch the required results
